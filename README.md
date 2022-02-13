@@ -3,7 +3,6 @@
 
 ### Hi there 👋, I'm Bishal Sarker
 #### CSE Student
-![CSE Student](https://scontent.fdac20-1.fna.fbcdn.net/v/t1.6435-9/s600x600/97594704_763307544227408_169027548875849728_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=174925&_nc_eui2=AeHcrxOdUxH0gOX7N7FSMb0m6T8l87MUfnvpPyXzsxR-e36INlwK1pOI_y8J68Y1cf4-mRbhCmhy3ydP12rw2url&_nc_ohc=JsHwCvkvpvMAX9ZRIZQ&_nc_ht=scontent.fdac20-1.fna&oh=00_AT9DxEsqFldLNW4TaOXSsvI0s1mGhJ01wMCJxzRn5qe0zA&oe=622D5E6E)
 
 I'm a CSE student in Daffodil International University. Currently I study here.
 
