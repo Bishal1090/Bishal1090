@@ -9,7 +9,7 @@ I'm a CSE student in Daffodil International University. Currently I study here.
 Skills: C / C++ / Java / HTML / CSS / Word / Power Pint / Excel
 
 - 🔭 I’m currently working on students 
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning Networking 
 - 👯 I’m looking to collaborate on facebook 
 - 🤔 I’m looking for help with c programming 
 
